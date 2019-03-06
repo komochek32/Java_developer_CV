@@ -16,3 +16,4 @@ Repository with my contacts. Contains repos with Java projects
 
 ### Simple projects for study:
 1. [Schedule Application](https://github.com/komochek32/ScheduleApp) 
+2. [Time Tracker Server](https://github.com/komochek32/EasyTimeTracker)
